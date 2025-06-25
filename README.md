@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Hamza Hussein  
-**Full Stack Web & Mobile Developer** | MERN | React Native | Flutter  
+# 👋 Hi, I'm Hamza Hussein 
+
+**Full Stack Web & Mobile Developer** | Flutter | MERN | React Native  
 
 Passionate about building responsive web/mobile apps, scalable APIs, and clean, performant code.  
 
 <!-- [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2bbc8a)](https://arabicsweets.netlify.app/) --> 
-[![Email](https://img.shields.io/badge/📧-ham7ahu@gmail.com-red)](mailto:ham7ahu@gmail.com)  
+[![Email](https://img.shields.io/badge/📧-ham7ahu@gmail.com-red)](mailto:ham7ahu@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/hamzah-hussein/)
+
 <!-- [![Phone](https://img.shields.io/badge/📞-+92_313_967_9664-green)](tel:+923139679664) --> 
 
 ---
@@ -26,12 +28,16 @@ Passionate about building responsive web/mobile apps, scalable APIs, and clean, 
 
 ## 📈 GitHub Stats  
 
-<img alt="My stats" src= "https://git-readme-stats-tau.vercel.app/api?username=ham7a7&show_icons=true&theme=dark" />       <img alt="Most used languages" src= "https://git-readme-stats-tau.vercel.app/api/top-langs/?username=ham7a7&theme=dark" />
+<div>
+<img alt="My stats" src= "https://git-readme-stats-tau.vercel.app/api?username=ham7a7&show_icons=true&theme=dark" />
 
 
-## 📬 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
+  
+<img alt="Most used languages" src= "https://git-readme-stats-tau.vercel.app/api/top-langs/?username=ham7a7&theme=dark&layout=compact" />
+</div>
+
+
+
 
 
 
