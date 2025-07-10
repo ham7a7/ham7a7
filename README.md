@@ -4,8 +4,8 @@
 
 Passionate about building modren web/mobile apps, scalable APIs, and clean, performant code.  
 
-<!-- [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2bbc8a)](https://arabicsweets.netlify.app/) --> 
-[![Email](https://img.shields.io/badge/📧-ham7ahu@gmail.com-red)](mailto:ham7ahu@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/hamzah-hussein/)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2bbc8a)](https://www.hamzahussein.me/)
+[![Email](https://img.shields.io/badge/📧-hamza@hamzahussein.me-red)](mailto:hamza@hamzahussein.me)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/hamzah-hussein/)
 
 <!-- [![Phone](https://img.shields.io/badge/📞-+92_313_967_9664-green)](tel:+923139679664) --> 
 
