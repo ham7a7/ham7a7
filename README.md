@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Hussein 
 
-**Full Stack Web & Mobile Developer** | Flutter | MERN | React Native  
+**Full Stack Web & Mobile Developer** | Flutter | MERN | React Native
 
 Passionate about building modren web/mobile apps, scalable APIs, and clean, performant code.  
 
