@@ -11,7 +11,7 @@ Passionate about building modren web/mobile apps, scalable APIs, and clean, perf
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stacks  
 
 ### **Mobile**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)  
