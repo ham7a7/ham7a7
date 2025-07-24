@@ -36,13 +36,6 @@ Passionate about building modren web/mobile apps, scalable APIs, and clean, perf
 <img alt="Most used languages" src= "https://git-readme-stats-tau.vercel.app/api/top-langs/?username=ham7a7&theme=dark&layout=compact" />
 </div>
 
-
-
-
-
-
-
-
 <!--
 **ham7a7/ham7a7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
