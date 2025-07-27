@@ -31,7 +31,6 @@ Passionate about building modren web/mobile apps, scalable APIs, and clean, perf
 <div>
 <img alt="My stats" src= "https://git-readme-stats-tau.vercel.app/api?username=ham7a7&show_icons=true&theme=dark" />
 
-
   
 <img alt="Most used languages" src= "https://git-readme-stats-tau.vercel.app/api/top-langs/?username=ham7a7&theme=dark&layout=compact" />
 </div>
