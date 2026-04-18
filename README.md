@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamza Hussein 
+# 👋 Hi, I'm Hamza 
 
 **Full Stack Web & Mobile Developer** | MERN | Flutter  | React Native
 
